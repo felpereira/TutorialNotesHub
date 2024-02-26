@@ -9,12 +9,12 @@ cd my-app
 
 Ao criar o projeto Next.js, **não** selecione _tailwind_.
 
-> Qual é o nome do seu projeto? my-app
-> Você gostaria de usar TypeScript? Não / **Sim**
-> Você gostaria de usar ESLint? Não / **Sim**
-> Você gostaria de usar Tailwind CSS? **Não** / Sim
-> Você gostaria de usar o diretório `src/`? Não / **Sim**
-> Você gostaria de usar o App Router? (recomendado) Não / **Sim**
+> Qual é o nome do seu projeto? my-app\
+> Você gostaria de usar TypeScript? Não / **Sim**\
+> Você gostaria de usar ESLint? Não / **Sim**\ 
+> Você gostaria de usar Tailwind CSS? **Não** / Sim\
+> Você gostaria de usar o diretório `src/`? Não / **Sim**\
+>  Você gostaria de usar o App Router? (recomendado) Não / **Sim**\
 > Gostaria de personalizar o alias de importação padrão (@/*)? Não / **Sim**
 
 Agora, execute o projeto e verifique se está funcionando corretamente.
@@ -47,7 +47,7 @@ yarn add -D @stylexjs/nextjs-plugin
 
 Crie um arquivo _.babelrc.js_ na raiz do seu projeto, onde está localizado o arquivo **packae.json**.
 
-```json
+```js 
 module.exports = {
   presets: ['next/babel'],
   plugins: [
