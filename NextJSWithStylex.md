@@ -10,9 +10,9 @@ cd my-app
 Ao criar o projeto Next.js, **não** selecione _tailwind_.
 
 > Qual é o nome do seu projeto? my-app\
-> Você gostaria de usar TypeScript? Não / **Sim**\
-> Você gostaria de usar ESLint? Não / **Sim**\ 
-> Você gostaria de usar Tailwind CSS? **Não** / Sim\
+> Você gostaria de usar TypeScript? Não / **Sim** \
+> Você gostaria de usar ESLint? Não / **Sim**\
+> Você gostaria de usar Tailwind CSS? **Não**  Sim\
 > Você gostaria de usar o diretório `src/`? Não / **Sim**\
 >  Você gostaria de usar o App Router? (recomendado) Não / **Sim**\
 > Gostaria de personalizar o alias de importação padrão (@/*)? Não / **Sim**
