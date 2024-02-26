@@ -1,4 +1,4 @@
-#NextJS com Stylex facebook
+# NextJS com Stylex facebook
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina. Em seguida, siga os passos abaixo:
 
