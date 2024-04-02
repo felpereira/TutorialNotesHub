@@ -3,8 +3,7 @@
 Certifique-se de ter o Node.js e o npm instalados em sua máquina. Em seguida, siga os passos abaixo:
 
 ```bash
-npx create-next-app@latest my-app
-cd my-app
+npx create-next-app@latest [Nome Projeto/Pasta] --use-yarn
 ```
 
 Ao criar o projeto Next.js, **não** selecione _tailwind_.
